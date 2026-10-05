@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+Emails_spam.ipynb
+Facebook_Ads_Original.ipynb
+Home_Project_2_AMAZON_Alexa.ipynb
